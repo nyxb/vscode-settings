@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    // my extensions, ofc :P
+    "nyxb.nesting-config",
+    "nyxb.vscode-nyxi",
+    "nyxb.open-on-github",
+    "nyxb.typescript-wizard",
+
+    // themes & icons
+    "nyxb.materialiconic",
+    "nyxb.theme-lumos",
+    "nyxb.materialiconic-product-icons",
+
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+
+    // up to you
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "mpontus.tab-cycle",
+    "naumovs.color-highlight",
+    "kamikillerto.vscode-colorize",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "voorjaar.windicss-intellisense",
+    "WakaTime.vscode-wakatime",
+    "znck.grammarly"
+  ]
+}

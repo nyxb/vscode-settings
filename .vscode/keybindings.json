@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaults
+[
+   {
+      "key": "alt+cmd+a",
+      "command": "workbench.action.toggleActivityBarVisibility"
+   },
+   {
+      "key": "alt+cmd+y",
+      "command": "workbench.action.toggleStatusbarVisibility"
+   },
+   {
+      "key": "cmd+[Semicolon]",
+      "command": "workbench.action.showNextWindowTab"
+   },
+   {
+      "key": "cmd+[Quote]",
+      "command": "workbench.action.showPreviousWindowTab"
+   },
+   {
+      "key": "ctrl+alt+w",
+      "command": "workbench.action.newWindowTab"
+   }
+]

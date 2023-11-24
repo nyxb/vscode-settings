@@ -311,9 +311,9 @@
  
    // File Nesting
    // this might not be up to date with the repo, please check yourself
-   // https://github.com/antfu/vscode-file-nesting-config
+   // https://github.com/nyxb/vscode-file-nesting-config
      // updated 2023-05-23 12:49
-   // https://github.com/antfu/vscode-file-nesting-config
+   // https://github.com/nyxb/vscode-file-nesting-config
    "explorer.fileNesting.enabled": true,
    "explorer.fileNesting.expand": false,
    "explorer.fileNesting.patterns": {
